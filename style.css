@@ -1,0 +1,87 @@
+*{
+    padding: 0%; 
+    /*内側の余白
+    外側の余白*/
+    margin: 0%;
+}
+
+header{
+    background: white;
+    text-align: center;
+    padding: 30px;
+}
+  /*写真をセンター*/
+    .img_block img{
+        
+             display: block;
+       
+             margin:auto;
+        
+        }
+         
+  
+
+#about{
+    background: white;
+    text-align: center; /*文字をセンターに持ってくる*/
+    padding: 100px;
+}
+#about h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+#about p{
+
+
+}
+#today{
+    background: #ecfaea;
+    text-align: center;
+    padding: 100px;
+}
+
+#today h2{
+    font-size: 36px;
+    margin-bottom: 60px;
+
+}
+
+#today img{
+width: 750px;
+}
+
+aside{
+background: white;
+text-align: center;
+padding: 100px; 
+}
+
+aside h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+aside p{
+    margin-bottom: 30px;
+}
+
+aside div{
+    background: #F4F0C3;
+    padding: 50px 30px 100px;
+    /* 　　　上　　左右　　下*/
+}
+
+aside h3 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+aside img{
+    width: 650px;
+}
+
+footer{
+    background: green;
+    padding: 20px;
+    text-align: center;
+}
